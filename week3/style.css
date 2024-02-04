@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 24px;
+    margin-top: 0;
+  }
+  
+  header p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .profil {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .profil img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .profil p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .kontak
